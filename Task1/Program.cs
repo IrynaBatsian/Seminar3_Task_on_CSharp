@@ -3,7 +3,7 @@
 Console.Clear();
 
 Console.Write("Введите номер четверти (1,2,3 или 4): ");
-double n = Convert.ToDouble(Console.ReadLine());
+int n = Convert.ToInt32(Console.ReadLine());
 if (n == 1)
     Console.Write("Возможные координаты точек x > 0 и y > 0");
 else if (n == 2)
