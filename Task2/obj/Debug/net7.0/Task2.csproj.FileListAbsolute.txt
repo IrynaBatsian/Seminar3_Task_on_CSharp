@@ -1,0 +1,15 @@
+/Users/admin/Documents/С#/Seminar3_c#/Task2/obj/Debug/net7.0/Task2.csproj.AssemblyReference.cache
+/Users/admin/Documents/С#/Seminar3_c#/Task2/obj/Debug/net7.0/Task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Documents/С#/Seminar3_c#/Task2/obj/Debug/net7.0/Task2.AssemblyInfoInputs.cache
+/Users/admin/Documents/С#/Seminar3_c#/Task2/obj/Debug/net7.0/Task2.AssemblyInfo.cs
+/Users/admin/Documents/С#/Seminar3_c#/Task2/obj/Debug/net7.0/Task2.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/С#/Seminar3_c#/Task2/bin/Debug/net7.0/Task2
+/Users/admin/Documents/С#/Seminar3_c#/Task2/bin/Debug/net7.0/Task2.deps.json
+/Users/admin/Documents/С#/Seminar3_c#/Task2/bin/Debug/net7.0/Task2.runtimeconfig.json
+/Users/admin/Documents/С#/Seminar3_c#/Task2/bin/Debug/net7.0/Task2.dll
+/Users/admin/Documents/С#/Seminar3_c#/Task2/bin/Debug/net7.0/Task2.pdb
+/Users/admin/Documents/С#/Seminar3_c#/Task2/obj/Debug/net7.0/Task2.dll
+/Users/admin/Documents/С#/Seminar3_c#/Task2/obj/Debug/net7.0/refint/Task2.dll
+/Users/admin/Documents/С#/Seminar3_c#/Task2/obj/Debug/net7.0/Task2.pdb
+/Users/admin/Documents/С#/Seminar3_c#/Task2/obj/Debug/net7.0/Task2.genruntimeconfig.cache
+/Users/admin/Documents/С#/Seminar3_c#/Task2/obj/Debug/net7.0/ref/Task2.dll
